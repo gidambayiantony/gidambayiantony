@@ -24,7 +24,7 @@ Feel free to explore my repositories to see more of my work.
 
 - 📧 Email: gidambayiantonay@gmail.com
 - 🌐 https:www.linkedin.com/in/antony-gidambayi-6a0145231
-- 🐦 Twitter: https://twitter.com/Dark_254?t=gABPT88gRNtAVaS-dUmwpg&s=09
+- 🐦 Twitter: https://twitter.com/Dark_254 
 
 I'm always open to new opportunities, collaborations, and discussions. Feel free to reach out!
 
