@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Anthony Gidambayi, a software engineering student and front-end developer based in [your Kenya. Welcome to my GitHub profile!
+I'm Anthony Gidambayi, a software engineering student and front-end developer based in Kenya. Welcome to my GitHub profile!
 
 ## About Me
 
