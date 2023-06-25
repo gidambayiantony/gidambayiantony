@@ -14,9 +14,9 @@ I'm Anthony Gidambayi, a software engineering student and front-end developer ba
 
 Here are some of my notable GitHub projects:
 
-- [Project 1](link-to-project-1): Brief description of the project.
-- [Project 2](link-to-project-2): Brief description of the project.
-- [Project 3](link-to-project-3): Brief description of the project.
+- https://github.com/gidambayiantony/alx-system_engineering-devops
+- https://github.com/gidambayiantony/alx-low_level_programming
+- https://github.com/gidambayiantony/alx-pre_course
 
 Feel free to explore my repositories to see more of my work.
 
