@@ -8,7 +8,7 @@ I'm Anthony Gidambayi, a software engineering student and front-end developer ba
 - ⚙️ Passionate about coding and technology.
 - ⚽️ A proud fan of Arsenal football club.
 - 🌍 Love to explore new technologies and contribute to open-source projects.
-- 💻 Experienced in HTML, CSS, JavaScript, and React.
+- 💻 Experienced in front end and back end frameworks.
 
 ## GitHub Projects
 
