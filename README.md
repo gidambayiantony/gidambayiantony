@@ -74,3 +74,11 @@ Feel free to explore my repositories to see more of my work.
 ## Get in Touch
 
 I'm always open to new opportunities, collaborations, and discussions. Feel free
+to reach out:
+
+- 📧 Email: [gidambayiantont@gmail.com](mailto:gidambayiantont@gmail.com)
+- 📞 Phone: [+254799548240](tel:+254799548240)
+- 💼 LinkedIn: [Antony Gidambayi](https://www.linkedin.com/in/antony-gidambayi-6a0145231)
+
+Let's connect and create amazing things together! Happy coding! 😄
+
