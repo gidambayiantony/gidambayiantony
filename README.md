@@ -12,7 +12,7 @@ I'm a **Programming** enthusiast and full-stack developer based in Kenya. Welcom
 ## Achievements
 
 - 🏆 Proud 3rd Place Winner in the Talan Global Hackathon 2023.
-  ![Talan Global Hackathon 3rd Place](https://globalhackathon.talan.com/wp-content/uploads/2023/10/5.jpg)
+  ![Talan Global Hackathon 3rd Place](https://drive.google.com/file/d/15RVAk1RtT9T6UDfMyBl9BR-rZMTeaod-/view?usp=drivesdk)
 
 ## Latest Development Technologies and Frameworks
 
