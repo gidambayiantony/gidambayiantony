@@ -12,7 +12,7 @@ I'm a **Programming** enthusiast and full-stack developer based in Kenya. Welcom
 ## Achievements
 
 - 🏆 Proud 3rd Place Winner in the Talan Global Hackathon 2023.
-  ![Talan Global Hackathon 3rd Place](https://drive.google.com/file/d/15RVAk1RtT9T6UDfMyBl9BR-rZMTeaod-/view?usp=drivesdk)
+  ![Talan Global Hackathon 3rd Place](https://drive.google.com/uc?export=view&id=15RVAk1RtT9T6UDfMyBl9BR-rZMTeaod-)
 
 ## Latest Development Technologies and Frameworks
 
@@ -31,7 +31,8 @@ I excel in using the following cutting-edge development technologies and framewo
 ### Back-end:
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Boot](https://img.she
+els.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -73,12 +74,11 @@ Feel free to explore my repositories to see more of my work.
 
 ## Get in Touch
 
-I'm always open to new opportunities, collaborations, and discussions. Feel free
-to reach out:
+I'm always open to new opportunities, collaborations, and discussions. Feel free to reach out:
 
-- 📧 Email: [gidambayiantont@gmail.com](mailto:gidambayiantont@gmail.com)
-- 📞 Phone: [+254799548240](tel:+254799548240)
-- 💼 LinkedIn: [Antony Gidambayi](https://www.linkedin.com/in/antony-gidambayi-6a0145231)
+- 📧 Email: [wechuligeoffrey@gmail.com](mailto:wechuligeoffrey@gmail.com)
+- 📞 Phone: [+254 712 888 676](tel:+254712888676)
+- 📍 Address: 70 - 20100. Nairobi - Kenya.
 
 Let's connect and create amazing things together! Happy coding! 😄
 
