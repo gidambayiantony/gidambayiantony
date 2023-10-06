@@ -77,8 +77,8 @@ Feel free to explore my repositories to see more of my work.
 
 I'm always open to new opportunities, collaborations, and discussions. Feel free to reach out:
 
-- 📧 Email: [wechuligeoffrey@gmail.com](mailto:wechuligeoffrey@gmail.com)
-- 📞 Phone: [+254 712 888 676](tel:+254712888676)
+- 📧 Email: [wechuligeoffrey@gmail.com](mailto:gidambayiantony@gmail.com)
+- 📞 Phone: [+254 788101193](tel:+254799548240)
 - 📍 Address: 70 - 20100. Nairobi - Kenya.
 
 Let's connect and create amazing things together! Happy coding! 😄
