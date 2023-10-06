@@ -75,11 +75,12 @@ Feel free to explore my repositories to see more of my work.
 
 ## Get in Touch
 
-I'm always open to new opportunities, collaborations, and discussions. Feel free to reach out:
+I'm always open to new opportunities, collaborations, and discussions. Feel free
+to reach out:
 
-- 📧 Email: [wechuligeoffrey@gmail.com](mailto:gidambayiantony@gmail.com)
-- 📞 Phone: [+254 788101193](tel:+254799548240)
-- 📍 Address: 70 - 20100. Nairobi - Kenya.
+- 📧 Email: [gidambayiantont@gmail.com](mailto:gidambayiantont@gmail.com)
+- 📞 Phone: [+254799548240](tel:+254799548240)
+- 🏢 Address: 70 – 20100. NAIROBI – KENYA.
+- 💼 LinkedIn: [Antony Gidambayi](https://www.linkedin.com/in/antony-gidambayi-6a0145231)
 
 Let's connect and create amazing things together! Happy coding! 😄
-
