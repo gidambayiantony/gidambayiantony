@@ -78,9 +78,10 @@ Feel free to explore my repositories to see more of my work.
 I'm always open to new opportunities, collaborations, and discussions. Feel free
 to reach out:
 
-- 📧 Email: [gidambayiantony@gmail.com](mailto:gidambayiantont@gmail.com)
+- 📧 Email: [gidambayiantony@gmail.com](mailto:gidambayiantony@gmail.com)
 - 📞 Phone: [+254799548240](tel:+254799548240)
-- 🏢 Address: 70 – 20100. NAIROBI – KENYA.
+- 🏢 Address: 70 - 20100. NAIROBI – KENYA.
 - 💼 LinkedIn: [Antony Gidambayi](https://www.linkedin.com/in/antony-gidambayi-6a0145231)
 
 Let's connect and create amazing things together! Happy coding! 😄
+
