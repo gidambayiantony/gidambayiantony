@@ -1,10 +1,10 @@
 # Hello, I'm Anthony Gidambayi! 👋
 
-I'm a **Programming** enthusiast and full-stack developer based in 🌎 . Welcome to my GitHub profile!
+I'm a **Programming** enthusiast and full-stack Software  developer based in 🌎 . Welcome to my GitHub profile!
 
 ## About Me
 
-- 🎓 Currently pursuing Software Engineering at ALX Africa.
+- 🎓 Certified Software Engineering at ALX Africa.
 - 💻 Experienced in full-stack development.
 - 🌍 Love exploring new technologies and contributing to open-source projects.
 - ⚽ A proud fan of Arsenal Football Club.
