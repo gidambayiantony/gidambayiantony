@@ -69,16 +69,6 @@ Welcome to my GitHub space! I’m passionate about building intelligent systems,
 
 ---
 
-## 🔥 Featured Projects
-
-- 📡 [ALX System Engineering & DevOps](https://github.com/gidambayiantony/alx-system_engineering-devops)  
-- 🔧 [Low-Level Programming](https://github.com/gidambayiantony/alx-low_level_programming)  
-- 🌐 [Websites & Components](https://github.com/gidambayiantony/websitesCodes)  
-- 💬 [Bulk SMS Platform - In Dev](https://gitlab.com/stockapp_limited/stockapp_webapp)  
-- 📊 [AI-Integrated Dashboards & Automation (Private)]  
-
----
-
 ## 📫 Let’s Connect
 
 I’m open to collaborations, consulting gigs, mentorship, or just geeking out together. Let's build something amazing.
