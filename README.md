@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Anthony Gidambayi
 
-🚀 Software Developer | Machine Learning Engineer | Aspiring CTO  
+🚀 Software Developer | Machine Learning Engineer 
 📍 Nairobi, Kenya  
 
 Welcome to my GitHub space! I’m passionate about building intelligent systems, scalable software, and impactful digital solutions. From startup hustle to global hackathons, I thrive at the intersection of code, innovation, and community.
